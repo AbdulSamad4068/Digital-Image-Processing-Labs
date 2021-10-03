@@ -1,0 +1,1 @@
+this is a text and we would like to check what has been identified by the speech recognition

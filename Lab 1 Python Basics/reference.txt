@@ -1,0 +1,1 @@
+this is some text and we would like to see if it has been identified correctly by speech recognition system
